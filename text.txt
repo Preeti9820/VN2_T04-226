@@ -1,0 +1,17 @@
+git init: Initilization
+git status: to track the unindifiend file
+git add . : to add new files or new changes
+git config --global user.name "Your Name" : Opperation
+git config --global user.email "you@example.com" : opperation
+git commit -m "message" : To show the message
+git remote add origin "giturl" : to get an acces of repositary
+git --set-upstream origin master : the location where to push
+git push : commit the final
+
+
+*for second time
+git status
+git add . 
+git commit -m "message"
+git push
+
